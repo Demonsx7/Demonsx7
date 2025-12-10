@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Projects:</h2>
 
 - <b>Development Project Surrounding Active Directory Homelabs</b>
-  - [Active Directory HomeLab Development](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory HomeLab Development](https://github.com/Demonsx7/ActiveDirectoryHomeLabDevelopment)
 - <b>Development Project Surrounding Web Development</b>
   - [Web Development Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>PowerShell</b>
