@@ -20,7 +20,7 @@
 
 <h2>🎓Certifications</h2>
 
-- [Google Cloud Career Launchpad (Cybersecurity Pathway)](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cloud Career Launchpad (Cybersecurity Pathway)](https://drive.google.com/file/d/1bS82odDBlRpbyqULJrMsHK5yKwWbQI0d/view?usp=sharing)
 - [Bachelor of Cyber-Security (UTS) (Expected-Completion:2027)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Certificate III - Information Technology (2025)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Certificate IV - Information Technology (Expected-Completion:2026)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
