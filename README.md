@@ -7,7 +7,7 @@
 - <b>Development Project Surrounding Web Development</b>
   - [Web Development Project](https://github.com/Demonsx7/Website-Development-Documentation-Process) <b><i></b></i>
 - <b>Splunk Data Analysis Configurations</b>
-  - [Splunk Data Documentation](https://github.com/Demonsx7/Website-Development-Documentation-Process) <b><i></b></i>
+  - [Splunk Data Documentation](https://github.com/Demonsx7/SplunkDocumentation) <b><i></b></i>
 
 
 <h2>🎓Certifications</h2>
